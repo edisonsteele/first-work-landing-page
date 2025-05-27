@@ -91,7 +91,7 @@ export default function SuccessPage() {
               </motion.div>
               <h1 className="text-2xl font-bold text-[#035183] mb-4">Thank you for your purchase!</h1>
               <p className="text-gray-600 mb-6">
-                We've sent you a confirmation email with the details of your purchase.
+                We&apos;ve sent you a confirmation email with the details of your purchase.
                 Our team will process your order and send you the license details shortly.
               </p>
               <p className="text-sm text-gray-500 mb-6">
@@ -135,7 +135,7 @@ export default function SuccessPage() {
               </motion.div>
               <h1 className="text-2xl font-bold text-[#035183] mb-4">Something went wrong</h1>
               <p className="text-gray-600 mb-6">
-                We couldn't verify your purchase. Please contact us at junktms@gmail.com for assistance.
+                We couldn&apos;t verify your purchase. Please contact us at junktms@gmail.com for assistance.
               </p>
               <Link
                 href="/"
